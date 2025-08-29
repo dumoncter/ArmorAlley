@@ -29,3 +29,4 @@ assets/audio/bnb
 assets/audio/*/bnb
 assets/video/bnb
 bun.lockb
+.env
